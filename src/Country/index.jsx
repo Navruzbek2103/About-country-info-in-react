@@ -59,6 +59,7 @@ const index = () => {
               className="img-thumbnail"
               width="500px"
             />
+            <h5 className="text-center mt-3">Flag of {names}</h5>
           </div>
           <div className="col-md-4">
             <ul className="list-group w-100">
